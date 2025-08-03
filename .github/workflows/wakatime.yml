@@ -1,8 +1,8 @@
 name: Update WakaTime Stats
 on:
   schedule:
-    - cron: '0 0 * * *'  # Se ejecuta cada día a medianoche (UTC)
-  workflow_dispatch:      # Permite ejecutarlo manualmente
+    - cron: '0 0 * * *'  # Ejecución diaria
+  workflow_dispatch:      # Permite ejecución manual
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -12,5 +12,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_LANGUAGES: "true"   # Muestra lenguajes
-          SHOW_EDITORS: "true"     # Muestra editores (VS Code, etc.)
+          SHOW_LANGUAGE: "true"     # Lenguajes (¡en singular!)
+          SHOW_EDITORS: "true"      # Editores de código
+          SHOW_OS: "true"           # Sistema operativo
+          LOCALE: "es"              # Idioma español (opcional)
