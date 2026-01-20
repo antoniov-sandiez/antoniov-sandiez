@@ -1,14 +1,14 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 28.3 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2026
+> 🏆 70 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,16 +43,17 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     56 mins             █████████████████████████   99.54 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              56 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+dockerServidor           56 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  56 mins             █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -66,5 +67,5 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 19/01/2026 00:38:04 UTC
+ Last Updated on 20/01/2026 00:34:49 UTC
 <!--END_SECTION:waka-->
