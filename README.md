@@ -1,20 +1,20 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-675%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-678%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 28.3 kB Used in GitHub's Storage 
+> 📦 28.4 kB Used in GitHub's Storage 
  > 
-> 🏆 236 Contributions in the Year 2026
+> 🏆 245 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 4 Private Repository 
+> 🔑 5 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -43,22 +43,22 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-PHP                      2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-YAML                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Bash                     1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Twig                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+PHP                      4 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   28.28 % 
+Markdown                 3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+YAML                     2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Bash                     2 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Twig                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🔥 Editors: 
-Antigravity              13 hrs 32 mins      █████████████████████████   100.00 % 
+Antigravity              16 hrs 38 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-insuranPro-Visual        7 hrs 50 mins       ██████████████░░░░░░░░░░░   57.91 % 
-dockerServidor           4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.47 % 
-insuranpro-symfony-2     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+insuranPro-Visual        7 hrs 50 mins       ████████████░░░░░░░░░░░░░   47.16 % 
+dockerServidor           4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+insuranpro-symfony-2     4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
 
 💻 Operating System: 
-Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -72,5 +72,5 @@ Windows                  13 hrs 32 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 31/01/2026 00:39:21 UTC
+ Last Updated on 01/02/2026 00:49:28 UTC
 <!--END_SECTION:waka-->
