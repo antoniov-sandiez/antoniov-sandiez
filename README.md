@@ -1,14 +1,14 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-685%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 28.5 kB Used in GitHub's Storage 
  > 
-> 🏆 247 Contributions in the Year 2026
+> 🏆 248 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -43,22 +43,22 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-PHP                      5 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-Markdown                 3 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
-YAML                     2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Bash                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Twig                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+PHP                      6 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.82 % 
+Markdown                 4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Bash                     3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+YAML                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Twig                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-Antigravity              16 hrs 5 mins       █████████████████████████   100.00 % 
+Antigravity              21 hrs 13 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-insuranPro-Visual        8 hrs               ████████████░░░░░░░░░░░░░   49.76 % 
-insuranpro-symfony-2     4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-dockerServidor           3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+insuranpro-symfony-2     8 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.60 % 
+insuranPro-Visual        8 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   41.47 % 
+dockerServidor           3 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
 
 💻 Operating System: 
-Windows                  16 hrs 5 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -72,5 +72,5 @@ Windows                  16 hrs 5 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 00:43:48 UTC
+ Last Updated on 04/02/2026 00:40:05 UTC
 <!--END_SECTION:waka-->
