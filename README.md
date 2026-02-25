@@ -1,20 +1,20 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-743%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 29.5 kB Used in GitHub's Storage 
+> 📦 29.6 kB Used in GitHub's Storage 
  > 
-> 🏆 356 Contributions in the Year 2026
+> 🏆 366 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 6 Private Repository 
+> 🔑 7 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -43,22 +43,22 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-PHP                      16 hrs 20 mins      █████████████████░░░░░░░░   67.37 % 
-Twig                     3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-JavaScript               2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Markdown                 1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+PHP                      14 hrs 1 min        █████████████████░░░░░░░░   66.92 % 
+Twig                     3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+JavaScript               1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Markdown                 1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+YAML                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Antigravity              24 hrs 6 mins       █████████████████████████   99.35 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Antigravity              20 hrs 48 mins      █████████████████████████   99.25 % 
+VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🐱‍💻 Projects: 
-insuranpro-symfony-2     24 hrs 6 mins       █████████████████████████   99.35 % 
-Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+insuranpro-symfony-2     20 hrs 48 mins      █████████████████████████   99.25 % 
+Unknown Project          9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 💻 Operating System: 
-Windows                  24 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -72,5 +72,5 @@ Windows                  24 hrs 15 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 24/02/2026 00:40:51 UTC
+ Last Updated on 25/02/2026 00:46:12 UTC
 <!--END_SECTION:waka-->
