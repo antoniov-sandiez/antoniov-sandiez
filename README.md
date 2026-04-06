@@ -1,12 +1,12 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-799%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 30.5 kB Used in GitHub's Storage 
+> 📦 30.8 kB Used in GitHub's Storage 
  > 
 > 🏆 622 Contributions in the Year 2026
  > 
@@ -43,19 +43,19 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 1 hr 17 mins        ████████████████░░░░░░░░░   63.17 % 
-PHP                      35 mins             ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Markdown                 2 hrs 24 mins       ██████████████████░░░░░░░   70.19 % 
+PHP                      52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 26 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-autotrader3              2 hrs 2 mins        █████████████████████████   100.00 % 
+autotrader3              3 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 ```text
@@ -69,5 +69,5 @@ Windows                  2 hrs 2 mins        ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 05/04/2026 00:50:54 UTC
+ Last Updated on 06/04/2026 00:50:31 UTC
 <!--END_SECTION:waka-->
