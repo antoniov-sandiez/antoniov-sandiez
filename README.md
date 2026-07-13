@@ -43,21 +43,16 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     2 hrs 25 mins       █████████████░░░░░░░░░░░░   52.40 % 
-Markdown                 1 hr 26 mins        ████████░░░░░░░░░░░░░░░░░   31.03 % 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       ██████████████████░░░░░░░   70.26 % 
-Claude Code              1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-audiolibros              4 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 ```text
@@ -71,5 +66,5 @@ Windows                  4 hrs 38 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 03:30:12 UTC
+ Last Updated on 13/07/2026 03:33:10 UTC
 <!--END_SECTION:waka-->
