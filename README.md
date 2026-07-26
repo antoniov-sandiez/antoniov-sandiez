@@ -1,10 +1,12 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C312%20hrs%2020%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.1 kB Used in GitHub's Storage 
+> 📦 50.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1,640 Contributions in the Year 2026
  > 
@@ -14,6 +16,51 @@
  > 
 > 🔑 13 Private Repository 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                5 commits           █████████████████████████   100.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   5 commits           █████████████████████████   100.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+Markdown                 7 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
+PHP                      5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+JSON                     3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+Python                   2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+
+🔥 Editors: 
+Claude Code              16 hrs 3 mins       ██████████████████░░░░░░░   73.60 % 
+VS Code                  5 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+
+🐱‍💻 Projects: 
+audiolibros v2           14 hrs 30 mins      █████████████████░░░░░░░░   66.52 % 
+audiolibros              7 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.48 % 
+
+💻 Operating System: 
+Windows                  21 hrs 48 mins      █████████████████████████   100.00 % 
+```
+
 ```text
 
 ```
@@ -25,5 +72,5 @@
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:18:05 UTC
+ Last Updated on 26/07/2026 03:32:08 UTC
 <!--END_SECTION:waka-->
