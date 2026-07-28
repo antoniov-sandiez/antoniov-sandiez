@@ -1,14 +1,16 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C316%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs%205%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-550%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.2 kB Used in GitHub's Storage 
+> 📦 50.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,640 Contributions in the Year 2026
+> 🏆 1,641 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,6 +63,31 @@ audiolibros              7 hrs 13 mins       ████████░░░�
 Windows                  22 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 19 hrs 17 mins (84.8%)
+
+✍️ 22,546 lines written by AI, 4,673 lines written by hand (82.83% AI-written)
+
+🔤 875,946,807 Input Tokens, 1,661,869 Output Tokens
+
+💵 $2865.84 Estimated AI Cost This Week
+
+🧠 28 AI Sessions, 154 AI Prompts
+
+Sonnet                   17,654 lines        ███████████████████░░░░░░   76.58 % 
+Opus                     5,400 lines         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 82.83% of written lines came from AI
+📚 Verbose Prompter — average 3,054 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 35.63% of changed lines were hand-edited
+```
+
 ```text
 
 ```
@@ -72,5 +99,5 @@ Windows                  22 hrs 45 mins      ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:39:50 UTC
+ Last Updated on 28/07/2026 02:56:24 UTC
 <!--END_SECTION:waka-->
