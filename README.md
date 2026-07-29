@@ -1,16 +1,12 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs%205%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-550%20hrs%2041%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 50.3 kB Used in GitHub's Storage 
+> 📦 50.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,641 Contributions in the Year 2026
+> 🏆 1,644 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,47 +41,47 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 8 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.10 % 
-PHP                      5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-JSON                     4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-Python                   1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON                     4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
+Markdown                 4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
+Python                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+PHP                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 26 mins      ██████████████████░░░░░░░   72.24 % 
-VS Code                  6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+Claude Code              9 hrs 6 mins        ████████████████░░░░░░░░░   64.02 % 
+VS Code                  5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.98 % 
 
 🐱‍💻 Projects: 
-audiolibros v2           15 hrs 31 mins      █████████████████░░░░░░░░   68.25 % 
-audiolibros              7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   31.75 % 
+audiolibros              7 hrs 56 mins       ██████████████░░░░░░░░░░░   55.76 % 
+audiolibros v2           6 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
 
 💻 Operating System: 
-Windows                  22 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 17 mins (84.8%)
+⏱ AI Coding Time: 10 hrs 54 mins (76.59%)
 
-✍️ 22,546 lines written by AI, 4,673 lines written by hand (82.83% AI-written)
+✍️ 12,178 lines written by AI, 4,665 lines written by hand (72.3% AI-written)
 
-🔤 875,946,807 Input Tokens, 1,661,869 Output Tokens
+🔤 342,679,872 Input Tokens, 858,737 Output Tokens
 
-💵 $2865.84 Estimated AI Cost This Week
+💵 $1299.62 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 154 AI Prompts
+🧠 21 AI Sessions, 107 AI Prompts
 
-Sonnet                   17,654 lines        ███████████████████░░░░░░   76.58 % 
-Opus                     5,400 lines         ██████░░░░░░░░░░░░░░░░░░░   23.42 % 
+Opus                     6,573 lines         █████████████░░░░░░░░░░░░   51.52 % 
+Sonnet                   6,184 lines         ████████████░░░░░░░░░░░░░   48.48 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.83% of written lines came from AI
-📚 Verbose Prompter — average 3,054 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 35.63% of changed lines were hand-edited
+🤖 AI-Driven — 72.3% of written lines came from AI
+📚 Verbose Prompter — average 2,203 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 50.59% of changed lines were hand-edited
 ```
 
 ```text
@@ -99,5 +95,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 02:56:24 UTC
+ Last Updated on 29/07/2026 03:15:23 UTC
 <!--END_SECTION:waka-->
