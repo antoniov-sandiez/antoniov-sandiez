@@ -1,5 +1,9 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C309%20hrs%2049%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-551%20hrs%2058%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -95,5 +99,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:15:23 UTC
+ Last Updated on 30/07/2026 02:48:10 UTC
 <!--END_SECTION:waka-->
