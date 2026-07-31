@@ -45,47 +45,50 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     4 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   33.73 % 
-Markdown                 4 hrs 26 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
-Python                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-PHP                      1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Markdown                 4 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
+JSON                     3 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   35.44 % 
+Python                   2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+PHP                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 6 mins        ████████████████░░░░░░░░░   64.02 % 
-VS Code                  5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.98 % 
+Claude Code              6 hrs 57 mins       ████████████████░░░░░░░░░   62.23 % 
+VS Code                  4 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
 
 🐱‍💻 Projects: 
-audiolibros              7 hrs 56 mins       ██████████████░░░░░░░░░░░   55.76 % 
-audiolibros v2           6 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
+audiolibros              7 hrs 22 mins       ████████████████░░░░░░░░░   65.92 % 
+audiolibros v2           2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+wiki                     1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Windows                  14 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 54 mins (76.59%)
+⏱ AI Coding Time: 8 hrs 25 mins (75.23%)
 
-✍️ 12,178 lines written by AI, 4,665 lines written by hand (72.3% AI-written)
+✍️ 8,521 lines written by AI, 4,649 lines written by hand (64.7% AI-written)
 
-🔤 342,679,872 Input Tokens, 858,737 Output Tokens
+🔤 220,739,090 Input Tokens, 632,824 Output Tokens
 
-💵 $1299.62 Estimated AI Cost This Week
+💵 $901.68 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 107 AI Prompts
+🧠 18 AI Sessions, 92 AI Prompts
 
-Opus                     6,573 lines         █████████████░░░░░░░░░░░░   51.52 % 
-Sonnet                   6,184 lines         ████████████░░░░░░░░░░░░░   48.48 % 
+Sonnet                   5,214 lines         ██████████████░░░░░░░░░░░   56.79 % 
+Opus                     3,840 lines         ██████████░░░░░░░░░░░░░░░   41.82 % 
+Deepseek                 128 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.3% of written lines came from AI
-📚 Verbose Prompter — average 2,203 characters per prompt
+⚖️ Balanced with AI — 64.7% of written lines came from AI
+📚 Verbose Prompter — average 1,514 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 50.59% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 59.31% of changed lines were hand-edited
 ```
 
 ```text
@@ -99,5 +102,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2026 02:48:10 UTC
+ Last Updated on 31/07/2026 03:31:03 UTC
 <!--END_SECTION:waka-->
