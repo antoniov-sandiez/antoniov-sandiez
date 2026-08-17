@@ -1,22 +1,22 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C338%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C339%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-576%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-577%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 73.9 kB Used in GitHub's Storage 
+> 📦 74.2 kB Used in GitHub's Storage 
  > 
-> 🏆 1,749 Contributions in the Year 2026
+> 🏆 1,750 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 14 Private Repository 
+> 🔑 15 Private Repository 
  > 
 **I'm an Early 🐤** 
 
@@ -45,51 +45,52 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-Markdown                 8 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.57 % 
-PHP                      3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-JSON                     3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Blade Template           47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Markdown                 5 hrs 53 mins       ███████████░░░░░░░░░░░░░░   45.34 % 
+JSON                     2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+PHP                      2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Python                   48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Other                    43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 34 mins      █████████████████░░░░░░░░   68.40 % 
-VS Code                  5 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
+Claude Code              7 hrs 23 mins       ██████████████░░░░░░░░░░░   56.87 % 
+VS Code                  5 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
+Opencode Cli             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-audiolibros v2           10 hrs 56 mins      ████████████████░░░░░░░░░   64.69 % 
-wiki                     2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-audiolibros              2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-vida                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Unknown Project          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+audiolibros v2           6 hrs 28 mins       ████████████░░░░░░░░░░░░░   49.90 % 
+audiolibros              2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
+wiki                     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+enfilma                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+vida                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 💻 Operating System: 
-Windows                  16 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 29 mins (91.59%)
+⏱ AI Coding Time: 11 hrs 38 mins (89.56%)
 
-✍️ 18,532 lines written by AI, 3,063 lines written by hand (85.82% AI-written)
+✍️ 13,553 lines written by AI, 3,063 lines written by hand (81.57% AI-written)
 
-🔤 658,728,077 Input Tokens, 2,352,055 Output Tokens
+🔤 360,402,096 Input Tokens, 1,736,033 Output Tokens
 
-💵 $1593.14 Estimated AI Cost This Week
+💵 $984.93 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 130 AI Prompts
+🧠 45 AI Sessions, 109 AI Prompts
 
-Sonnet                   12,559 lines        █████████████████░░░░░░░░   66.20 % 
-Opus                     3,988 lines         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Deepseek                 2,423 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Sonnet                   8,096 lines         ███████████████░░░░░░░░░░   59.32 % 
+Opus                     3,705 lines         ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Deepseek                 1,611 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Qwen                     237 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.82% of written lines came from AI
-📚 Verbose Prompter — average 2,499 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 14.04% of changed lines were hand-edited
+🤖 AI-Driven — 81.57% of written lines came from AI
+📚 Verbose Prompter — average 2,759 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 18.51% of changed lines were hand-edited
 ```
 
 ```text
@@ -103,5 +104,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 01:42:22 UTC
+ Last Updated on 17/08/2026 01:39:58 UTC
 <!--END_SECTION:waka-->
