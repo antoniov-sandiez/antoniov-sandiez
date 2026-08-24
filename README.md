@@ -1,6 +1,6 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-585%20hrs%2030%20mins-blue?style=flat)
 
@@ -45,49 +45,49 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     6 hrs 37 mins       ████████████░░░░░░░░░░░░░   46.41 % 
-Markdown                 3 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Python                   2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-PHP                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON                     6 hrs 7 mins        █████████████░░░░░░░░░░░░   51.12 % 
+Markdown                 2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Python                   1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+PHP                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 36 mins      ███████████████████░░░░░░   74.41 % 
-Claude Code              3 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Opencode Cli             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+VS Code                  8 hrs 52 mins       ███████████████████░░░░░░   74.08 % 
+Claude Code              2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
+Opencode Cli             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-audiolibros              8 hrs 34 mins       ███████████████░░░░░░░░░░   60.07 % 
-enfilma                  5 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.93 % 
+audiolibros              8 hrs               █████████████████░░░░░░░░   66.86 % 
+enfilma                  3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
 
 💻 Operating System: 
-Windows                  14 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 22 mins (72.76%)
+⏱ AI Coding Time: 7 hrs 57 mins (66.35%)
 
-✍️ 10,307 lines written by AI, 1,606 lines written by hand (86.52% AI-written)
+✍️ 6,471 lines written by AI, 1,605 lines written by hand (80.13% AI-written)
 
-🔤 6,703,223 Input Tokens, 1,050,109 Output Tokens
+🔤 5,868,824 Input Tokens, 753,384 Output Tokens
 
-💵 $267.46 Estimated AI Cost This Week
+💵 $185.90 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 103 AI Prompts
+🧠 22 AI Sessions, 71 AI Prompts
 
-Deepseek                 4,128 lines         ██████████░░░░░░░░░░░░░░░   39.72 % 
-Opus                     3,959 lines         ██████████░░░░░░░░░░░░░░░   38.10 % 
-Qwen                     2,298 lines         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Deepseek                 3,614 lines         ██████████████░░░░░░░░░░░   55.24 % 
+Opus                     2,143 lines         ████████░░░░░░░░░░░░░░░░░   32.76 % 
+Qwen                     778 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.52% of written lines came from AI
-📚 Verbose Prompter — average 2,496 characters per prompt
+🤖 AI-Driven — 80.13% of written lines came from AI
+📚 Verbose Prompter — average 1,828 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 25.49% of changed lines were hand-edited
+🚀 High AI Trust — 35.2% of changed lines were hand-edited
 ```
 
 ```text
@@ -101,5 +101,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 01:44:18 UTC
+ Last Updated on 24/08/2026 01:41:54 UTC
 <!--END_SECTION:waka-->
