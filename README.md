@@ -1,8 +1,8 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C351%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C352%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-585%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-586%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,49 +45,49 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     5 hrs 6 mins        ███████████████░░░░░░░░░░   60.02 % 
-Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Python                   55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-PHP                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-YAML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+JSON                     3 hrs 26 mins       ██████████████░░░░░░░░░░░   55.26 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+PHP                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 17 mins       ██████████████████░░░░░░░   73.99 % 
-Claude Code              2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Opencode Cli             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+VS Code                  4 hrs 46 mins       ███████████████████░░░░░░   76.69 % 
+Claude Code              1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-audiolibros              6 hrs 49 mins       ████████████████████░░░░░   80.18 % 
-enfilma                  1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+audiolibros              4 hrs 37 mins       ███████████████████░░░░░░   74.18 % 
+enfilma                  1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
 
 💻 Operating System: 
-Windows                  8 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 34 mins (53.9%)
+⏱ AI Coding Time: 3 hrs 33 mins (57.02%)
 
-✍️ 3,571 lines written by AI, 45 lines written by hand (98.76% AI-written)
+✍️ 644 lines written by AI, 45 lines written by hand (93.47% AI-written)
 
-🔤 3,954,625 Input Tokens, 450,631 Output Tokens
+🔤 2,929,411 Input Tokens, 351,867 Output Tokens
 
-💵 $93.48 Estimated AI Cost This Week
+💵 $91.75 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 40 AI Prompts
+🧠 16 AI Sessions, 41 AI Prompts
 
-Deepseek                 2,262 lines         ████████████████░░░░░░░░░   62.21 % 
-Opus                     1,133 lines         ████████░░░░░░░░░░░░░░░░░   31.16 % 
-Qwen                     234 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Deepseek                 486 lines           ██████████████████░░░░░░░   72.65 % 
+Qwen                     176 lines           ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.76% of written lines came from AI
-📄 Detailed Prompter — average 752 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 35.41% of changed lines were hand-edited
+🤖 AI-Driven — 93.47% of written lines came from AI
+📄 Detailed Prompter — average 1,447 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 31.38% of changed lines were hand-edited
 ```
 
 ```text
@@ -101,5 +101,5 @@ Opencode-Cli             0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 25/08/2026 01:37:19 UTC
+ Last Updated on 26/08/2026 01:41:55 UTC
 <!--END_SECTION:waka-->
