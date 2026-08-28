@@ -1,8 +1,8 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C353%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-586%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-588%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,49 +45,49 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     2 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.66 % 
-Markdown                 2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.55 % 
-Python                   1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-PHP                      42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-SRecode Template         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+JSON                     2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.23 % 
+Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+Python                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+PHP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+SRecode Template         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████░░░░░░░░   66.21 % 
-Claude Code              2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
-Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+VS Code                  3 hrs 43 mins       ███████████████░░░░░░░░░░   61.90 % 
+Claude Code              2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.85 % 
+Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-audiolibros              5 hrs 7 mins        ███████████████████░░░░░░   76.14 % 
-enfilma                  1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+audiolibros              5 hrs 18 mins       ██████████████████████░░░   88.42 % 
+enfilma                  41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 
 💻 Operating System: 
-Windows                  6 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 8 mins (61.46%)
+⏱ AI Coding Time: 3 hrs 14 mins (53.99%)
 
-✍️ 2,735 lines written by AI, 2,517 lines written by hand (52.08% AI-written)
+✍️ 2,379 lines written by AI, 2,502 lines written by hand (48.74% AI-written)
 
-🔤 2,020,302 Input Tokens, 494,080 Output Tokens
+🔤 1,045,446 Input Tokens, 333,259 Output Tokens
 
-💵 $106.95 Estimated AI Cost This Week
+💵 $76.06 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 50 AI Prompts
+🧠 17 AI Sessions, 42 AI Prompts
 
-Opus                     2,336 lines         ███████████████████░░░░░░   77.92 % 
-Deepseek                 486 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Qwen                     176 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Opus                     2,336 lines         ██████████████████████░░░   88.42 % 
+Qwen                     176 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Deepseek                 130 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.08% of written lines came from AI
-📚 Verbose Prompter — average 2,199 characters per prompt
+⚖️ Balanced with AI — 48.74% of written lines came from AI
+📚 Verbose Prompter — average 2,092 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 71.27% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 73.73% of changed lines were hand-edited
 ```
 
 ```text
@@ -101,5 +101,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 08:39:08 UTC
+ Last Updated on 28/08/2026 10:51:16 UTC
 <!--END_SECTION:waka-->
