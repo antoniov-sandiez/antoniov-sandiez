@@ -1,8 +1,8 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-588%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-588%20hrs%203%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,49 +45,46 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.23 % 
-Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-Python                   1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-PHP                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-SRecode Template         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JSON                     2 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.02 % 
+Markdown                 1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+Python                   1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+SRecode Template         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 43 mins       ███████████████░░░░░░░░░░   61.90 % 
-Claude Code              2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.85 % 
-Opencode Cli             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+VS Code                  4 hrs 5 mins        ████████████████░░░░░░░░░   64.37 % 
+Claude Code              2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
 
 🐱‍💻 Projects: 
-audiolibros              5 hrs 18 mins       ██████████████████████░░░   88.42 % 
-enfilma                  41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+audiolibros              6 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
+Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 14 mins (53.99%)
+⏱ AI Coding Time: 2 hrs 38 mins (41.61%)
 
-✍️ 2,379 lines written by AI, 2,502 lines written by hand (48.74% AI-written)
+✍️ 2,151 lines written by AI, 2,502 lines written by hand (46.23% AI-written)
 
-🔤 1,045,446 Input Tokens, 333,259 Output Tokens
+🔤 673,117 Input Tokens, 213,298 Output Tokens
 
-💵 $76.06 Estimated AI Cost This Week
+💵 $37.77 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 42 AI Prompts
+🧠 12 AI Sessions, 34 AI Prompts
 
-Opus                     2,336 lines         ██████████████████████░░░   88.42 % 
-Qwen                     176 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Deepseek                 130 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,336 lines         ████████████████████████░   97.70 % 
+Sonnet                   53 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Deepseek                 2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.74% of written lines came from AI
-📚 Verbose Prompter — average 2,092 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 73.73% of changed lines were hand-edited
+⚖️ Balanced with AI — 46.23% of written lines came from AI
+📚 Verbose Prompter — average 2,086 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 75.7% of changed lines were hand-edited
 ```
 
 ```text
@@ -101,5 +98,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 10:51:16 UTC
+ Last Updated on 29/08/2026 06:38:15 UTC
 <!--END_SECTION:waka-->
