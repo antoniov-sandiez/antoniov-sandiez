@@ -1,8 +1,8 @@
 ## ⏳ Estadísticas de tiempo en código 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C356%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C357%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-588%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-588%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -10,7 +10,7 @@
 
 > 📦 94.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,810 Contributions in the Year 2026
+> 🏆 1,811 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -45,35 +45,35 @@ Sunday                   5 commits           ███████████�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JSON                     2 hrs 59 mins       ████████████░░░░░░░░░░░░░   47.02 % 
-Markdown                 1 hr 53 mins        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
-Python                   1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-SRecode Template         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     3 hrs 45 mins       ████████████░░░░░░░░░░░░░   46.65 % 
+Markdown                 2 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
+Python                   1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+SRecode Template         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        ████████████████░░░░░░░░░   64.37 % 
-Claude Code              2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
+VS Code                  5 hrs 30 mins       █████████████████░░░░░░░░   68.33 % 
+Claude Code              2 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   31.67 % 
 
 🐱‍💻 Projects: 
-audiolibros              6 hrs 21 mins       █████████████████████████   100.00 % 
+audiolibros              8 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 38 mins (41.61%)
+⏱ AI Coding Time: 2 hrs 56 mins (36.43%)
 
-✍️ 2,151 lines written by AI, 2,502 lines written by hand (46.23% AI-written)
+✍️ 2,151 lines written by AI, 2,516 lines written by hand (46.09% AI-written)
 
-🔤 673,117 Input Tokens, 213,298 Output Tokens
+🔤 705,539 Input Tokens, 226,924 Output Tokens
 
-💵 $37.77 Estimated AI Cost This Week
+💵 $38.77 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 34 AI Prompts
+🧠 13 AI Sessions, 38 AI Prompts
 
 Opus                     2,336 lines         ████████████████████████░   97.70 % 
 Sonnet                   53 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
@@ -81,10 +81,10 @@ Deepseek                 2 lines             ░░░░░░░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 46.23% of written lines came from AI
-📚 Verbose Prompter — average 2,086 characters per prompt
+⚖️ Balanced with AI — 46.09% of written lines came from AI
+📚 Verbose Prompter — average 2,212 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 75.7% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 76.57% of changed lines were hand-edited
 ```
 
 ```text
@@ -98,5 +98,5 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/antoniov-sandiez/antoniov-sandiez/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 06:38:15 UTC
+ Last Updated on 30/08/2026 04:51:21 UTC
 <!--END_SECTION:waka-->
